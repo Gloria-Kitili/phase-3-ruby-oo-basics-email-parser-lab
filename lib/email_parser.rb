@@ -11,3 +11,4 @@ email_list.reject {|email| email.empty?}
 # or whitespace (' ').
 end
 end 
+ 
